@@ -1,7 +1,6 @@
 <template>
     <div class="app">
       <!-- This is the full App -->
-      
       <Nuxt />
     </div>
 
